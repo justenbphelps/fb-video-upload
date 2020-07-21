@@ -1,0 +1,25 @@
+{
+  "name": "fb-video-upload",
+  "version": "1.0.0",
+  "description": "Upload videos using the Facebook Graph API",
+  "license": "MIT",
+  "author": "justenbphelps",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "stream",
+    "facebook-api",
+    "facebook",
+    "graph",
+    "api",
+    "upload",
+    "video"
+  ],
+  "dependencies": {
+    "request-promise": "^3.0.0",
+    "stream-to-promise": "^2.1.1"
+  },
+  "devDependencies": {}
+}
