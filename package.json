@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justenbphelps/fb-video-upload"
+    "url": "git+https://github.com/justenbphelps/fb-video-upload.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@justenbphelps"
