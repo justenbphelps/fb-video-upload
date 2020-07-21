@@ -8,6 +8,13 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justenbphelps/fb-video-upload"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@justenbphelps"
+  },
   "keywords": [
     "stream",
     "facebook-api",
