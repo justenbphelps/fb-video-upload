@@ -13,7 +13,7 @@
     "url": "git+https://github.com/justenbphelps/fb-video-upload.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@justenbphelps"
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "stream",
