@@ -1,5 +1,5 @@
 {
-  "name": "fb-video-upload",
+  "name": "@justenbphelps/fb-video-upload",
   "version": "1.0.0",
   "description": "Upload videos using the Facebook Graph API",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/justenbphelps/fb-video-upload.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/@justenbphelps"
   },
   "keywords": [
     "stream",
